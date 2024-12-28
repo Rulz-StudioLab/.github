@@ -5,5 +5,3 @@
 ## 🔥 Highlights
 
 ![Commit Stats](https://github-readme-stats.vercel.app/api/?username=Reborn-Rulz&count_private=true&theme=radical&hide=prs,issues)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Reborn-Rulz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
